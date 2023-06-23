@@ -61,7 +61,7 @@ datasummary((growth + rgdp60)* treat ~ Mean + median + sd + min + max,
 ```
 
 **Designated place**: type one or two sentences describing this table of a fellow student below. For example, comment on the mean and median growth of both groups. Then stage, commit and push it to their github repository. 
-
+# In group with revolution, the mean of 'growth' is 1.68, the mean of 'rgdp60' is 1988.67. In group with zero revolution, the mean of 'growth' is 2.46, the mean of 'rgdp60' is 5393.
 
 ### Part 3: Make a table summarizing reressions using modelsummary and kable
 
